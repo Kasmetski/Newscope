@@ -15,6 +15,7 @@ var postsData = [
         url: 'http://'
     }
 ];
-template.postsList.helpers({
+
+Template.postsList.helpers({
     posts: postsData
 });
