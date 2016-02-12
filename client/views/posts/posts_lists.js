@@ -2,7 +2,7 @@ var postsData = [
     {
         title : 'Introducing Newscope',
         author : 'K',
-        url : 'http://'
+        url : 'http://asdasd.com'
     },
     {
         title: 'Meteor',
@@ -12,7 +12,7 @@ var postsData = [
     {
         title: 'The Meteor Book',
         author: 'Tom Coleman',
-        url: 'http://'
+        url: 'http://asdasd.com'
     }
 ];
 
