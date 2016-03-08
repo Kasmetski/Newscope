@@ -1,0 +1,30 @@
+<template name="postSubmit">
+    <form class="main">
+        <div class="control-group">
+            <label class="control-label" for="url">URL</label>
+            <div class="controls">
+                <input name="url" value="" placeholder="Your URL" type="text" />
+            </div>
+        </div>
+
+        <div class="central-group">
+            <label class="control-label" for="title">Title</label>
+            <div class="controls">
+                <input name="title" value="" placeholder="Name your post" type="text" />
+            </div>
+        </div>
+
+        <div class="control-groups">
+            <label for="message" class="control-label">Message</label>
+            <div class="controls">
+                <textarea name="message" type="text" value=""></textarea>
+            </div>
+        </div>
+
+        <div class="control-group">
+            <div class="controls">
+                <input type="submit" value="Submit" class="btn btn-primary">
+            </div>
+        </div>
+    </form>
+</template>
