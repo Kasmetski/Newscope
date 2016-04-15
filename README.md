@@ -1,2 +1,4 @@
 # Newscope
-Newscope - simple reddit-like application
+### Newscope - small and simple reddit-like application
+
+-in progress
